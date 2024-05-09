@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GIF Viewer</title>
+</head>
+<body>
+    <img src="https://drive.google.com/file/d/1K0dancv4y27bkn7qtGZt3O4OlfenwYkh/view?usp=drive_link" alt="GIF">
+</body>
+</html>
